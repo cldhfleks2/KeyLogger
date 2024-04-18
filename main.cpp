@@ -7,6 +7,7 @@
 #include <iostream>
 #include <unordered_map>
 
+
 int prevKey = -1;
 HHOOK keyboardHook;
 FILE* logFile;
